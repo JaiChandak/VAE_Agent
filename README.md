@@ -11,7 +11,7 @@ The experimental results demonstrate the effectiveness of the proposed approach 
 
 
 <p align="center">
-  <b>DIM</b>
+  <b>Deep Imitative Model (DIM)</b>
   <br>
   <img src="/images/DIM_RA_1.gif">
 </p>
